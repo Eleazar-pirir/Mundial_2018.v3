@@ -3,6 +3,7 @@ body {
     background-repeat: no-repeat;     
     background-attachment: fixed;   
     min-height: 100vh;                
+    
     padding: 20px;
     font-family: 'Gill Sans', Calibri, 'Trebuchet MS', sans-serif;
     display: flex;
@@ -83,6 +84,113 @@ h1 {
     max-width: 90%;      
     border-radius: 10px; 
 }
+/* aleazar final */
+
+
+
+/* antony inicio */
+h2{
+    background-color: blanchedalmond;
+    border-radius: 15px;
+    padding: 10px 15px;
+    font-size: 28px;
+}
+h3{
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: blanchedalmond;
+    height: 75%;
+    width: 75%;
+    border-radius: 10px;
+}
+.caja{
+    background-color: rgba(31, 31, 245, 0.815);
+    border-radius: 5px;
+    height: 200px;
+    width: 200px;
+}
+.caja0{
+    background-color: rgba(232, 13, 13, 0.89);
+    border-radius: 5px;
+    height: 200px;
+    width: 200px;
+}
+.Contenedor-equipo1{
+    display: flex;
+    gap: 20px;
+}
+.contenedor-equipo2{
+    display: flex;
+    gap: 20px;
+}
+h4{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h5{
+    text-align: center;
+    color: rgba(31, 31, 245, 0.815);
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h6{
+    text-align: center;
+    color: rgb(104, 104, 104);
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.caja1{
+    background-color: rgba(31, 31, 245, 0.815);
+    border-radius: 5px;
+    height: 200px;
+    width: 200px;
+}
+.caja2{
+    background-color: white;
+    border-radius: 5px;
+    height: 200px;
+    width: 200px;
+}
+.caja3{
+    background-color: gold;
+    border-radius: 7px;
+    height: 200px;
+    width: 200px;
+}
+.Contenedor-octavos1{
+    display: flex;
+    gap: 20px;
+}
+.contenedor-octavos2{
+    display: flex;
+    gap: 20px;
+}
+.contenedor-cuartos{
+    display: flex;
+    gap: 20px;
+}
+.contenedor-semis{
+    display: flex;
+    gap: 20px;
+}
+
+
+
+/* antony final */
+
+
+/* aless inicio */
+
+/* aless final */
+
+
+
+/* palala inicio */
+
+/* palala final */
 
 
 .contenedor{
