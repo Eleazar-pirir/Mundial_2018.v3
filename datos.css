@@ -1,0 +1,113 @@
+
+body {
+    background: linear-gradient(to bottom,
+        red,
+        white,
+        blue
+    );
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Gill Sans", Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2 {
+    background-color: rgb(219, 212, 202);
+    text-align: center;
+    padding: 30px 21px;
+    border-radius: 30px;
+}
+
+.card {
+    margin-right: 20px;
+    margin-bottom: 20px;
+    width: 250px;
+    background: rgb(212, 206, 206);
+    padding: 15px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.card img{
+    width: 250px;
+    background: rgb(197, 191, 191);
+    padding: 15px;
+    border-radius: 20px;
+    text-align: 15px;
+}
+
+.card img{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.card h2{
+    font-size: 25px;
+}
+
+.card p{
+    color: gray;
+}
+/* segundo */
+
+.card {
+    width: 250px;
+    background: rgb(209, 198, 198);
+    padding: 15px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.card img{
+    width: 250px;
+    background: rgb(196, 179, 179);
+    padding: 15px;
+    border-radius: 20px;
+    text-align: 15px;
+}
+
+.card img{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.card h2{
+    font-size: 25px;
+}
+
+.card p{
+    color: gray;
+}
+
+/* tecercero */
+
+.card {
+    width: 250px;
+    background: white;
+    padding: 15px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.card img{
+    width: 250px;
+    background: white;
+    padding: 15px;
+    border-radius: 20px;
+    text-align: 15px;
+}
+
+.card img{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.card h2{
+    font-size: 25px;
+}
+
+.card p{
+    color: gray;
+}
